@@ -9,7 +9,7 @@
 - 🌱 I'm studying at the Dev Club with Rodolfo Mori
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS*
 - 😄 Pronouns: she / her
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fun fact: **Oneye 😜**
 
 <br><br>
 
