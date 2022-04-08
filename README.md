@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Front-End 
-- 🔭 I currently work as a freelancer
-- 🌱 I’m currently studying at DEVCLUB / become a programmer
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 🔭 Currently freelance work as Front End
+- 🌱 I'm studying at the Dev Club with Rodolfo Mori
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS*
 - 😄 Pronouns: she / her
 - ⚡ Fun fact **Oneye 😜**
 
