@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Front-End 
+- :mortar_board:Faculty of Internet Systems
 - 🔭 Currently freelance work as Front End
 - 🌱 I'm studying at the TipsCode with Alisson Suassuna
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS*
