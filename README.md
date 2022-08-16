@@ -6,7 +6,7 @@
 
 - 🔥 Front-End 
 - 🔭 Currently freelance work as Front End
-- 🌱 I'm studying at the Dev Club with Rodolfo Mori
+- 🌱 I'm studying at the TipsCode with Alisson Suassuna
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS*
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: **Oneye 😜**
