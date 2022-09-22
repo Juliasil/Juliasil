@@ -7,7 +7,7 @@
 - 🔥 Front-End 
 - :mortar_board:Faculty of Internet Systems
 - 🔭 Currently freelance work as Front End
-- 🌱 I'm studying at the TipsCode with Alisson Suassuna
+- 🌱 I'm studying at the TipsCode full stack
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS*
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: **Oneye 😜**
