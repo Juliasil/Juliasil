@@ -1,14 +1,14 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-<h1 align="left">Hi 👋, I'm Juliana da Silveira Aguilar and I'm a Front end engineer. </h1>
+<h1 align="left">Hi 👋, I'm Juliana da Silveira Aguilar and I'm a Software Developer Ruby on Rails. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Front-End 
+- 🔥 Back-End 
 - :mortar_board:Faculty of Internet Systems
-- 🔭 Currently freelance work as Front End
-- 🌱 I'm studying at the TipsCode full stack
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS*
+- 🔭 Currently freelance work as Back-End
+- 🌱 I'm studying at the College of Internet Systems
+- 💬 Ask me about ** Ruby,Ruby on Rails,SQL, *
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: **Oneye 😜**
 
