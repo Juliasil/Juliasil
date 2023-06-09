@@ -8,7 +8,7 @@
 - :mortar_board:Faculty of Internet Systems
 - 🔭 Currently freelance work as Back-End
 - 🌱 I'm studying at the College of Internet Systems
-- 💬 Ask me about ** Ruby,Ruby on Rails,SQL, *
+- 💬 Ask me about ** Ruby, Ruby on Rails, POSTGRESQL, GIT, SQL, **
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: **Oneye 😜**
 
