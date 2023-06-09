@@ -13,7 +13,7 @@ class Programmer
 - 🔥 Back-End 
 - :mortar_board:Faculty of Internet Systems
 - 🔭 Currently freelance work as Back-End
-- 🌱 I'm studying at the College of Internet Systems
+- 🌱 I'm studying at the Desenvolvedor de back end
 - 💬 Ask me about ** Ruby, Ruby on Rails, POSTGRESQL, GIT, LINUX, SQL, **
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: **Oneye 😜**
