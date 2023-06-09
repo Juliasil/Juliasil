@@ -4,6 +4,12 @@
 <h1 align="left">Hi 👋, I'm Juliana da Silveira Aguilar and I'm a Software Developer Ruby on Rails. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
+```ruby 
+class Programmer
+
+	def initialize() 
+```
+
 - 🔥 Back-End 
 - :mortar_board:Faculty of Internet Systems
 - 🔭 Currently freelance work as Back-End
