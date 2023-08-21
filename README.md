@@ -32,12 +32,10 @@ class Programmer
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="100%" height="400px" />
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Juliasil&show_icons=true&theme=vision-friendly-dark" alt="Juliasil's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliasil&layout=compact&theme=vision-friendly-dark" alt="Juliasil's most languages"/>
-</p>
+
+
 
 <br><br>
 
