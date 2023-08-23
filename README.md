@@ -35,9 +35,8 @@ class Programmer
 <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="100%" height="400px" />
 
 
-
-
 <br><br>
+
 
 ## &nbsp;Social Links
 <p align="left">
