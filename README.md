@@ -11,11 +11,11 @@ class Programmer
 ```
 
 - 🔥 Back-End 
-- :mortar_board:Faculty of Internet Systems
-- 🔭 Currently freelance work as Back-End
-- 🌱 I'm studying at the DesenvolvendoMe · Trainee
-- 💬 Ask me about ** Ruby, Ruby on Rails,RSPEC, POSTGRESQL, GIT, LINUX, SQL, **
-- 😄 Pronouns: she / her
+- :mortar_board:Faculty of Internet System 
+- 🔭 Currently freelance work as Back-End 
+- 🌱 I'm studying at the DesenvolvendoMe · Trainee 
+- 💬 Ask me about ** Ruby, Ruby on Rails,RSPEC, POSTGRESQL, GIT, LINUX, SQL, ** 
+- 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
 
 <br><br>
