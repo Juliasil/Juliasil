@@ -14,7 +14,7 @@ class Programmer
 - :mortar_board:Faculty of Internet System 
 - 🔭 Currently freelance work as Back-End 
 - 🌱 I'm studying at the DesenvolvendoMe · Trainee 
-- 💬 Ask me about ** Ruby, Ruby on Rails,RSPEC, POSTGRESQL, GIT, LINUX, SQL, ** 
+- 💬 Ask me about ** Ruby, Ruby on Rails,RSPEC, POSTGRESQL, GIT, LINUX, SQL, RubyMine ** 
 - 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
 
