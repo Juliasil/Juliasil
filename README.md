@@ -12,7 +12,7 @@ class Programmer
 
 - 🔥 Back-End 
 - :mortar_board:Faculty of Internet System 
-- 🔭 Currently freelance work as Back-End 
+- 🔭 Currently freelance work as  Web development
 - 🌱 I'm studying at the DesenvolvendoMe · Trainee 
 - 💬 Ask me about ** Ruby, Ruby on Rails,RSPEC, POSTGRESQL, GIT, LINUX, SQL, RubyMine ** 
 - 😄 Pronouns: she / her 
