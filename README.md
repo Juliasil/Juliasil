@@ -10,10 +10,10 @@ class Programmer
 	def initialize() 
 ```
 
-- 🔥 Back-End 
+- 🔥 Software Developer
 - :mortar_board:Faculty of Internet System 
 - 🔭 Currently freelance work as  Web development
-- 🌱 I'm interning in Development at rogpe.tech.
+- 🌱 I'm interning in Development at rogpe.tech
 - 💬 Ask me about ** Ruby, Ruby on Rails,RSPEC, C, Javascript, Python, POSTGRESQL, GIT, LINUX, SQL, VSCode ** 
 - 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
