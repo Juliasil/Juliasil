@@ -4,17 +4,25 @@
 <h1 align="left">Hi 👋, I'm Juliana da Silveira Aguilar and I'm a Software Developer. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
-```ruby 
-class Programmer
 
-	def initialize() 
-```
+```java 
+package com.example.helloworld;
+
+public class HelloWorld {
+
+    public static void main(String[] args {
+	System.out.println("Hello, World!"); 
+    }
+}
+
+	
+
 
 - 🔥 Software Developer
 - :mortar_board:Faculty of Internet System 
 - 🔭 Currently freelance work as  Web development
 - 🌱 I'm interning in Development at rogpe.tech
-- 💬 Ask me about ** Ruby, Ruby on Rails,RSPEC, C, Javascript, Python, POSTGRESQL, GIT, LINUX, SQL, VSCode ** 
+- 💬 Ask me about **Java, Spring Boot, Python, Ruby, Ruby on Rails,RSPEC, C, Javascript, POSTGRESQL, GIT, LINUX, SQL, VSCode, IntelliJ, Eclipse  ** 
 - 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
 
