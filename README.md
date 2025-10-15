@@ -22,7 +22,7 @@ public class HelloWorld {
 - :mortar_board:Faculty of Internet System 
 - 🔭 Currently freelance work as  Web development
 - 🌱 I'm interning in Development at rogpe.tech
-- 💬 Ask me about **Java, Spring Boot, Python, Ruby, Ruby on Rails,RSPEC, C, Javascript, POSTGRESQL, GIT, LINUX, SQL, VSCode, IntelliJ, Eclipse  ** 
+- 💬 Ask me about **Java, Spring Boot, Python, Ruby, Ruby on Rails,RSPEC, Javascript, POSTGRESQL, GIT, LINUX, SQL, VSCode, IntelliJ, Eclipse  ** 
 - 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
 
