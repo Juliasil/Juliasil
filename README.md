@@ -5,15 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
 
-```java 
-package com.example.helloworld;
+```ruby
 
-public class HelloWorld {
 
-    public static void main(String[] args {
-	System.out.println("Hello, World!"); 
-    }
-}
+puts "Hello, World!"
+
+
+
 
 ```
 
@@ -22,7 +20,7 @@ public class HelloWorld {
 - :mortar_board:Faculty of Internet System 
 - 🔭 Currently freelance work as  Web development
 - 🌱 I'm interning in Development at rogpe.tech
-- 💬 Ask me about **Java, Spring Boot, Python, Ruby, Ruby on Rails,RSPEC, Javascript, POSTGRESQL, GIT, LINUX, SQL, VSCode, IntelliJ, Eclipse  ** 
+- 💬 Ask me about **Ruby, Ruby on Rails,RSPEC,Java, Spring Boot, POSTGRESQL, GIT, LINUX, SQL, VSCode, IntelliJ  ** 
 - 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
 
