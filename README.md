@@ -18,8 +18,7 @@ System.out.println("Olá, mundo!");
 
 - 🔥 Software Developer
 - :mortar_board:Faculty of Internet System 
-- 🔭 Currently freelance work as  Web development
-- 🌱 I'm interning in Development at rogpe.tech
+- 🌱 I currently work as a Java Backend Developer at rogpe.tech.
 - 💬 Ask me about **Java, Spring Boot, Spring Security, Hibernate e SQL  ** 
 - 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
