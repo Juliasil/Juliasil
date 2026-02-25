@@ -20,7 +20,7 @@ System.out.println("Olá, mundo!");
 - :mortar_board:Faculty of Internet System 
 - 🔭 Currently freelance work as  Web development
 - 🌱 I'm interning in Development at rogpe.tech
-- 💬 Ask me about **Ruby, Ruby on Rails,RSPEC,Java, Spring Boot, POSTGRESQL, GIT, LINUX, SQL, VSCode, IntelliJ  ** 
+- 💬 Ask me about **Java, Spring Boot, Spring Security, Hibernate e SQL  ** 
 - 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
 
