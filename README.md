@@ -5,10 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
 
-```java
+```python
 
 
-System.out.println("Olá, mundo!");
+print("Olá, mundo! Bem-vindos ao meu perfil.")
 
 
 
@@ -16,10 +16,10 @@ System.out.println("Olá, mundo!");
 ```
 
 
-- 🔥 Software Developer
-- :mortar_board:Faculty of Internet System 
-- 🌱 I currently work as a Java Backend Developer at rogpe.tech.
-- 💬 Ask me about **Java, Spring Boot, Spring Security, Hibernate e SQL  ** 
+- 🔥 Software Developer(Python Backend)
+- :mortar_board:Faculdade de Sistemas de Internet
+- 🌱 Atualmente focanda em Python, Django e APIs REST
+- 💬 Pergunte-me sobre ** Python, Flask, Fast API, PostgreSQL e Docker  ** 
 - 😄 Pronouns: she / her 
 - ⚡ Fun fact: **Oneye 😜**
 
@@ -28,12 +28,11 @@ System.out.println("Olá, mundo!");
 ## 🛠 &nbsp;Tech Stack
 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br><br>
 
