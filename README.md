@@ -1,7 +1,7 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-<h1 align="left">Hi 👋, I'm Juliana da Silveira Aguilar and I'm a Software Developer. </h1>
+<h1 align="left">Olá 👋, meu nome é Juliana da Silveira Aguilar e sou desenvolvedora de software. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
 
