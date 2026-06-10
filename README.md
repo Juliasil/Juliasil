@@ -1,66 +1,116 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-<h1 align="left">Olá 👋, meu nome é Juliana da Silveira Aguilar e sou desenvolvedora de software. </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
+ # Olá! 👋 Eu sou Juliana da Silveira Aguilar
+
+💻 Desenvolvedora Backend Java
+
+🚀 Especializada em APIs REST, Spring Boot e Microsserviços
+
+🎓 Pós-Graduanda em Engenharia de Software com Java e Inteligência Artificial
 
 
-```python
+## 👩‍💻 Sobre mim
 
+Sou desenvolvedora backend apaixonada por tecnologia, arquitetura de software e construção de soluções escaláveis.
 
-print("Olá, mundo! Bem-vindos ao meu perfil.")
+Atualmente trabalho com desenvolvimento de software e sigo aprofundando meus conhecimentos em:
 
+- Java
+- Spring Boot
+- APIs REST
+- Microsserviços
+- PostgreSQL
+- Docker
+- Inteligência Artificial aplicada ao desenvolvimento
 
+Minha trajetória começou na área de operações e gestão, experiência que fortaleceu minha visão de negócio e resolução de problemas.
 
+Hoje meu foco está na construção de aplicações backend robustas, performáticas e de fácil manutenção.
+<br><br>
 
-```
+## 🚀 Tecnologias
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- 🔥 Software Developer(Python Backend)
-- :mortar_board:Faculdade de Sistemas de Internet
-- 🌱 Atualmente focanda em Python, Django e APIs REST
-- 💬 Pergunte-me sobre ** Python, Flask, Fast API, PostgreSQL e Docker  ** 
-- 😄 Pronouns: she / her 
-- ⚡ Fun fact: **Oneye 😜**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
 
+## 📊 Estatísticas
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliasil&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliasil&layout=compact&theme=tokyonight"/>
+
+</div>
+
 
 <br><br>
+## ⭐ Projetos em Destaque
+
+### 🔹 Service Vix
+Sistema para geração automática de orçamentos para prestadores de serviços.
+
+Tecnologias:
+- Java
+- Spring Boot
+- PostgreSQL
+
+---
+
+### 🔹 APIs REST com Spring Boot
+
+Coleção de APIs desenvolvidas para estudo e aplicação prática de:
+
+- CRUD
+- JPA
+- Hibernate
+- JWT
+- Segurança
+
+---
+
+### 🔹 Sistema de Gestão
+
+Projeto backend focado em:
+
+- Microsserviços
+- Docker
+- PostgreSQL
+
+
 
 <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="100%" height="400px" />
 
 
 <br><br>
 
+## 📫 Contato
 
-## &nbsp;Social Links
-<p align="left">
-  💌 Here is a message to contact you: ⤵️
-</p>
+📧 Email: julianasilveiraaguilar@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/juliana-da-silveira-aguilar-dev/
+
+🐙 GitHub:
+github.com/Juliasil
 
 
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=000000&logo=gmail&logoColor=white&link=julianasilveiraaguilar@gmail.com" /></a>
 
-<p align="left" style="background:yellow">
-
-<a href="https://twitter.com/Juliana66974649" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Juliasil-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/juliana-silveira-aguilar/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Juliasil-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-</p>
 
 
 <!--
