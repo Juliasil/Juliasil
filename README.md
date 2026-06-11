@@ -1,129 +1,65 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
- # Olá! 👋 Eu sou Juliana da Silveira Aguilar
+# 👋 Olá, seja bem-vindo(a) ao meu perfil do GitHub!
 
-💻 Desenvolvedora Backend Java
+* Meu nome é **Juliana da Silveira Aguilar** e sou **Desenvolvedora Backend Java**, de Belo Horizonte - MG 🇧🇷
 
-🚀 Especializada em APIs REST, Spring Boot e Microsserviços
-
-🎓 Pós-Graduanda em Engenharia de Software com Java e Inteligência Artificial
-
+---
 
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora backend apaixonada por tecnologia, arquitetura de software e construção de soluções escaláveis.
+* 🚀 Especializada em **APIs REST, Spring Boot e Microsserviços**.
+* 🎓 Pós-Graduanda em **Engenharia de Software com Java e Inteligência Artificial**.
+* ❤️ Apaixonada por tecnologia, arquitetura de software e construção de soluções escaláveis.
+* 💻 Atualmente trabalho com desenvolvimento de software e sigo aprofundando meus conhecimentos e evoluindo diariamente.
 
-Atualmente trabalho com desenvolvimento de software e sigo aprofundando meus conhecimentos em:
+---
 
-- Java
-- Spring Boot
-- APIs REST
-- Microsserviços
-- PostgreSQL
-- Docker
-- Inteligência Artificial aplicada ao desenvolvimento
+## 🛠️ Minhas Tecnologias
 
-Minha trajetória começou na área de operações e gestão, experiência que fortaleceu minha visão de negócio e resolução de problemas.
+Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 
-Hoje meu foco está na construção de aplicações backend robustas, performáticas e de fácil manutenção.
-<br><br>
-
-## 🚀 Tecnologias
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br><br>
-
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliasil&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliasil&layout=compact&theme=tokyonight"/>
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
 </div>
 
+---
 
-<br><br>
-## ⭐ Projetos em Destaque
+## 📊 Minhas estatísticas
 
-### 🔹 Service Vix
-Sistema para geração automática de orçamentos para prestadores de serviços.
+Aqui você pode ver um pouco do meu desempenho e das linguagens mais utilizadas nos meus repositórios:
 
-Tecnologias:
-- Java
-- Spring Boot
-- PostgreSQL
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juliasil&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" style="margin-right: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliasil&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</div>
+
+<br>
+
+<br>
+
+### 📈 Atividade de Código
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliasil&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Juliasil's Contribution Graph" width="100%" />
+</div>
 
 ---
 
-### 🔹 APIs REST com Spring Boot
+## 🌐 Conecte-se comigo
 
-Coleção de APIs desenvolvidas para estudo e aplicação prática de:
-
-- CRUD
-- JPA
-- Hibernate
-- JWT
-- Segurança
-
----
-
-### 🔹 Sistema de Gestão
-
-Projeto backend focado em:
-
-- Microsserviços
-- Docker
-- PostgreSQL
-
-
-
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="100%" height="400px" />
-
-
-<br><br>
-
-## 📫 Contato
-
-📧 Email: julianasilveiraaguilar@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/juliana-da-silveira-aguilar-dev/
-
-🐙 GitHub:
-github.com/Juliasil
-
-
-
-
-
-<!--
-**Juliasil/Juliasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭   I’m currently working on ...
-- 🌱 I’m currently - 🌱  lea
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://www.linkedin.com/in/juliana-da-silveira-aguilar-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:julianasilveiraaguilar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
