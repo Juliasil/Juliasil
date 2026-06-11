@@ -1,5 +1,4 @@
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Juliana" />
 
 # 👋 Olá, seja bem-vindo(a) ao meu perfil do GitHub!
 
@@ -13,6 +12,8 @@
 * 🎓 Pós-Graduanda em **Engenharia de Software com Java e Inteligência Artificial**.
 * ❤️ Apaixonada por tecnologia, arquitetura de software e construção de soluções escaláveis.
 * 💻 Atualmente trabalho com desenvolvimento de software e sigo aprofundando meus conhecimentos e evoluindo diariamente.
+
+<br>
 
 ---
 
@@ -44,11 +45,15 @@ Aqui você pode ver um pouco do meu desempenho e das linguagens mais utilizadas 
 
 <br>
 
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliasil&theme=radical" alt="GitHub Streak" height="180" />
+</div>
+
 <br>
 
-### 📈 Atividade de Código
+### 📈 Gráfico de Contribuição Geral
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliasil&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Juliasil's Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliasil&theme=react-dark&bg_color=1d1f21&hide_border=true" alt="Juliasil's Contribution Graph" width="100%" />
 </div>
 
 ---
