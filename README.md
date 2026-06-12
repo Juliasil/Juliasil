@@ -39,9 +39,11 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 Aqui você pode ver um pouco do meu desempenho e das linguagens mais utilizadas nos meus repositórios:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliasil&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" style="margin-right: 15px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juliasil&theme=radical" alt="GitHub Stats" height="180" style="margin-right: 15px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliasil&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </div>
+
+<br>
 
 <br>
 
